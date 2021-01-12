@@ -3,9 +3,9 @@
   API to retrieve the name of the country for the given capital city.
 
 ## Prerequisites:
-   Language: Python<br/>
-   Web application framework: Flask<br/>
-   ASGI server: uvicorn<br/>
+   ### Language: Python<br/>
+   ### Web application framework: Flask<br/>
+   ### ASGI server: uvicorn<br/>
 
 ## Installation
 - python : https://www.python.org/downloads/<br/><br/>
